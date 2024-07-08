@@ -29,4 +29,4 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
  - The first player to get three of their marks in a row (horizontal, vertical, or diagonal) wins.
  - If all squares are filled and no player has three marks in a row, the game ends in a draw.
 
-🎉 Enjoy the game!
+## 🎉 Enjoy the game!
